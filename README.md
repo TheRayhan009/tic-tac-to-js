@@ -22,7 +22,7 @@ This is a classic Tic-Tac-Toe game built with HTML, CSS, and JavaScript. The gam
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/TheRayhan009/tik-tac-toe
+   git clone https://github.com/TheRayhan009/tik-tac-to-js
 
 ##Open index.html in your web browser
 
